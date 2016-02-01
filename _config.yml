@@ -1,0 +1,28 @@
+name: Jonathan Flack Live
+favicon: null
+layout_spectrum: 0.0600348066072911
+typography_spectrum: 0.1680907669942826
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.261475668521598
+  lightness: 0.972406965913251
+  saturation: 0.6805489815305918
+  rhythmicContrast: 0.8149438030086458
+purpose: []
